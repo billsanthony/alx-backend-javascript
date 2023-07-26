@@ -1,4 +1,4 @@
-# alx-backend-javascript
+# alx-backend-javascript by Anthony Paul
 0x00. ES6 BasicsResources
 Read or watch:
 
