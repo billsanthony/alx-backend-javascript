@@ -1,5 +1,8 @@
-function displayMessage(string) {
-  console.log(string);
-}
+bob@dylan:~$ cat 0-main.js
+const displayMessage = require('./0-console');
 
-module.exports = displayMessage;
+displayMessage("Hello NodeJS!");
+
+bob@dylan:~$ node 0-main.js
+Hello NodeJS!
+bob@dylan:~$
